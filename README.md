@@ -4,6 +4,7 @@
 
 
 ### Understanding
+- Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage. _ICCV 2023 workshop_ [[paper](https://openaccess.thecvf.com/content/ICCV2023W/e-Heritage/papers/Cioni_Diffusion_Based_Augmentation_for_Captioning_and_Retrieval_in_Cultural_Heritage_ICCVW_2023_paper.pdf)][[code](https://github.com/ciodar/cultural-heritage-diffaug)]
 - Image captioning for cultural artworks: a case study on ceramics. _Multimedia Systems 2023_ [[paper](https://link.springer.com/article/10.1007/s00530-023-01178-8)]
 - VISCOUNTH: A Large-scale Multilingual Visual Question Answering Dataset for Cultural Heritage. _TOMCCAP 2023_ [[paper](https://dl.acm.org/doi/10.1145/3590773)][[code](https://github.com/ICCD-MiBACT/ArCo/tree/master/ArCo-release)]
 - Taming CLIP for Fine-grained and Structured Visual Understanding of Museum Exhibits. _ECCV 2024_ [[paper](https://arxiv.org/abs/2409.01690)][[code](https://github.com/insait-institute/MUZE)]
